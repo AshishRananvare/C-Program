@@ -1,3 +1,3 @@
-# C-Program
+# C-Programs
 
 All My C Programs
